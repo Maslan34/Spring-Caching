@@ -1,5 +1,12 @@
 # Spring Boot-Redis Integration API
 
+## 📬 Postman Collection
+
+You can explore and test all API endpoints directly using my public Postman collection:
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/maslan34/workspace/spring-caching/collection/34103070-a2143c87-6c60-4e28-b7b1-5882528ea9aa?action=share&creator=34103070)
+
+
 ## 📖 Information
 
 **Redis Integration API** is a comprehensive Spring Boot application that demonstrates advanced Redis integration patterns including ***caching***, ***rate limiting***, ***JWT token management***, and ***OTP*** verification. The project showcases real-world Redis usage scenarios with security implementations.
